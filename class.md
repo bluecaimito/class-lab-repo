@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Claire Sobiono Mahusay  
+- Certification: Meta Full-Stack Developer Specialization  
 
 ## Instructions
 Please replace the placeholders with your details:

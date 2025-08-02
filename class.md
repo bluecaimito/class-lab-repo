@@ -1,5 +1,5 @@
 ## Class Information
-- Name: Claire Sobiono Mahusay  
+- Name: Claire S. Mahusay  
 - Certification: Meta Full-Stack Developer Specialization  
 
 ## Instructions
